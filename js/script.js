@@ -59,7 +59,8 @@ document.addEventListener('DOMContentLoaded', () => {
       { img: '/images/icons/icons8-bootstrap-48.png', name: 'Bootstrap' },
       { img: '/images/icons/icons8-nodejs-48.png', name: 'Node.js' },
       { img: '/images/icons/icons8-express-js-48.png', name: 'Express.js' },
-      { img: '/images/icons/jquery.png', name: 'jquery' }
+      { img: '/images/icons/jquery.png', name: 'jquery' },
+      { img: '/images/icons/git.png', name: 'Git' }
     ],
     databases: [
       { img: '/images/icons/icons8-mongo-db-48.png', name: 'MongoDB' },
@@ -69,8 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
       { img: '/images/icons/oop.png', name: 'OOP' },
       { img: '/images/icons/algorithm.png', name: 'Algorithms' },
       { img: '/images/icons/data structures.png', name: 'Data Structures' },
-      { img: '/images/icons/problem solving.png', name: 'Problem Solving' },
-      { img: '/images/icons/git.png', name: 'Git' },
+      { img: '/images/icons/problem solving.png', name: 'Problem Solving' }
     ]
   };
 
